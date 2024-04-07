@@ -1,3 +1,5 @@
+// command line generator
+
 #include <iostream>
 #include <string>
 #include <vector>
